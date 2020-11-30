@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 汕尾1-新闻综合频道
-http://dslive.grtn.cn/swzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 海丰电视台
-https://www.wxhftv.com/hls/test.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
-http://112.17.40.140/PLTV/88888888/224/3221226417/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文高清
-http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯高清
-http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://112.17.40.140/PLTV/88888888/224/3221226595/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1高清
@@ -281,48 +271,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226488/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226182/index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视高清
 http://112.17.40.140/PLTV/88888888/224/3221226412/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://112.17.40.140/PLTV/88888888/224/3221226793/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://112.17.40.140/PLTV/88888888/224/3221226479/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://112.17.40.140/PLTV/88888888/224/3221226756/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://112.17.40.140/PLTV/88888888/224/3221226179/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://112.17.40.140/PLTV/88888888/224/3221226120/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://112.17.40.140/PLTV/88888888/224/3221226698/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://112.17.40.140/PLTV/88888888/224/3221226700/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://112.17.40.140/PLTV/88888888/224/3221226702/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://112.17.40.140/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://112.17.40.140/PLTV/88888888/224/3221226245/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://112.17.40.140/PLTV/88888888/224/3221226712/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://112.17.40.140/PLTV/88888888/224/3221226178/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://112.17.40.140/PLTV/88888888/224/3221226176/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://112.17.40.140/PLTV/88888888/224/3221226503/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://112.17.40.140/PLTV/88888888/224/3221226360/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道(3D)
-http://112.17.40.140/PLTV/88888888/224/3221226475/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道(华数)
-http://112.17.40.140/PLTV/88888888/224/3221226326/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道(体育)
-http://112.17.40.140/PLTV/88888888/224/3221226429/index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://112.17.40.140/PLTV/88888888/224/3221226160/index.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
@@ -359,6 +307,10 @@ http://112.17.40.140/PLTV/88888888/224/3221226551/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江影视娱乐
 http://112.17.40.140/PLTV/88888888/224/3221226273/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文高清
+http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯高清
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",直播中国
 http://112.17.40.140/PLTV/88888888/224/3221226752/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",直播中国
